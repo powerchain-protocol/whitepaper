@@ -1,4 +1,3 @@
-# 03 — Industry Analysis
 
 **Document:** PowerChain Protocol™ Whitepaper
 **Chapter:** 03 — Industry Analysis

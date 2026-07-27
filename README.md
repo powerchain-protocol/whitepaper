@@ -292,7 +292,7 @@ Contributions are welcomed for:
 | Resource      | Location                       |
 | ------------- | ------------------------------ |
 | Website       | https://powerchain.energy      |
-| Documentation | https://docs.powerchain.energy |
+| Documentation | https://whitepaper.powerchain.energy |
 | GitHub        | https://github.com/powerchain  |
 | Architecture  | `/docs/architecture/`          |
 | Whitepaper    | `/whitepaper/`                 |

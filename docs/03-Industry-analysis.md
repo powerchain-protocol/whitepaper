@@ -1,4 +1,3 @@
-
 **Document:** PowerChain Protocol™ Whitepaper
 **Chapter:** 03 — Industry Analysis
 **Version:** v1.0.0 Beta
